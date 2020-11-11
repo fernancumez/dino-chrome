@@ -1,0 +1,24 @@
+{
+  "name": "dino-chrome",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "1.2.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernancumez/dino-chrome.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fernancumez/dino-chrome/issues"
+  },
+  "homepage": "https://github.com/fernancumez/dino-chrome#readme",
+  "description": "Construcción de un juego sencillo basado en el dinosaurio de Chrome"
+}
