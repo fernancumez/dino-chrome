@@ -6,7 +6,7 @@
 
 <p align="center">
   <span>
-    <img src="docs/logo.png" alt="Logo" width="90" height="90">
+    <img src="docs/logo.png" alt="Logo" width="100" height="100">
   </span>
   <h3 align="center">Dino Chrome</h3>
   <p align="center">
