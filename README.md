@@ -36,7 +36,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@fernancumez](https://twitter.com/fernancumez) - fernancumez@gmail.com
+Fernando Cúmez - [@fernancumez](https://twitter.com/fernancumez) - fernancumez@gmail.com
 
 Project Link: [https://github.com/fernancumez/dino-chrome](https://github.com/fernancumez/dino-chrome)
 
